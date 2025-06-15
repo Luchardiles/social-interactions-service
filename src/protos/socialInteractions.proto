@@ -1,0 +1,45 @@
+syntax = "proto3";
+
+package socialInteractions;
+import "google/protobuf/empty.proto";
+
+message Comment {
+  string id = 1;
+  string videoId = 2;
+  string comment = 3;
+}
+
+message GiveLikeRequest {
+  string videoId = 1;
+}
+
+message GiveLikeResponse {
+  string videoId = 1;
+  int32 likeCount = 2;
+}
+
+message GiveCommentRequest {
+  string videoId = 1;
+  string comment = 2;
+}
+
+message GiveCommentResponse {
+  string videoId = 1;
+  Comment comment = 2;
+}
+
+message ListCommentsLikesRequest {
+  string videoId = 1;
+}
+
+message ListCommentsLikesResponse {
+  repeated Comment comments = 1;
+  int32 likeCount = 2;
+}
+
+service SocialInteractions {
+  rpc GiveLike(GiveLikeRequest) returns (GiveLikeResponse);
+  rpc GiveComment(GiveCommentRequest) returns (GiveCommentResponse);
+  rpc ListCommentsLikes(ListCommentsLikesRequest) returns (ListCommentsLikesResponse);
+}
+

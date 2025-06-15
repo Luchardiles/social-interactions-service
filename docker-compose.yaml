@@ -1,0 +1,11 @@
+services:
+  mongo:
+    image: mongo:latest
+    container_name: social-interactions-db
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: rootpassword
+    ports:
+      - "27020:27017"
+  

@@ -11,6 +11,12 @@ const VideoSchema = new mongoose.Schema(
       type: Number,
       default: 0,
     },
+    comments: [
+      {
+        type: String,
+        ref: "Comment",
+      }
+    ],
   },
   {
     _id: false,

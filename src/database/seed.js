@@ -1,41 +1,53 @@
 const { connectMongo, closeMongo } = require("./mongooseConfig");
 const Video = require("../models/videoModel");
-const { faker } = require("@faker-js/faker");
+const Comment = require("../models/commentModel");
+const fs = require("fs");
+const path = require("path");
 
-/**
- * Semilla de la colección de videos: crea documentos falsos si hay menos de 5 existents.
- */
-async function seedDatabase() {
+async function seed() {
   try {
+    console.log("🔄 Starting database seeding...");
+
+    const videosPath = path.resolve(__dirname, "../../mock/videos.json");
+    const videosData = JSON.parse(fs.readFileSync(videosPath, "utf-8"));
+
+    const commentsPath = path.resolve(__dirname, "../../mock/comments.json");
+    const commentsData = JSON.parse(fs.readFileSync(commentsPath, "utf-8"));
+
     await connectMongo();
-
-    // Verificar cantidad de documentos activos para no resembrar innecesariamente
-    const count = await Video.countDocuments({ deletedAt: null });
-    if (count > 5) {
-      console.log("Collection already seeded");
-      return;
-    }
-
-    // Limpiar colección
     await Video.deleteMany({});
+    await Comment.deleteMany({});
 
-    // Generar y almacenar 10 videos falsos
-    const movies = Array.from({ length: 400 }).map(() => ({
-      title: faker.lorem.sentence(),
-      description: faker.lorem.paragraph(),
-      genre: faker.music.genre()
+    console.log(`🛠 Seeding ${videosData.length} videos...`);
+
+    const videos = videosData.map((video) => ({
+      _id: video.id,
+      likes: video.likes,
     }));
+    await Video.insertMany(videos);
 
-    await Video.insertMany(movies);
-    console.log("Database seeded with movies");
+    console.log(`🛠 Seeding ${commentsData.length} comments...`);
+
+    const comments = commentsData.map((comment) => ({
+      videoId: comment.videoId,
+      comment: comment.comment,
+    }));
+    await Comment.insertMany(comments);
+
+    console.log("✅ Database seeding completed successfully.");
   } catch (err) {
-    console.error("Seeding error:", err);
+    console.error("❌ Error during seeding:", error);
   } finally {
     await closeMongo();
   }
 }
 
-// Ejecutar la función de semilla
-seedDatabase()
-  .then(() => console.log("Seeding completed"))
-  .catch((err) => console.error("Seeding failed:", err));
+seed()
+  .catch((e) => {
+    console.error(e);
+    process.exit(1);
+  })
+  .finally(() => {
+    console.log("MongoDB connection closed.");
+    process.exit(0);
+  });

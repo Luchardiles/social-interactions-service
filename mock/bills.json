@@ -1,0 +1,2102 @@
+[
+  {
+    "status": "Vencido",
+    "amount": 92800,
+    "createdAt": "2025-02-28",
+    "userId": "774c7ce5-cab1-46e9-b96e-e704b07bb109"
+  },
+  {
+    "status": "Pagado",
+    "amount": 63434,
+    "createdAt": "2025-02-06",
+    "userId": "9f01511a-e2f2-4071-afc8-83d967e4f50b"
+  },
+  {
+    "status": "Pagado",
+    "amount": 32557,
+    "createdAt": "2025-05-09",
+    "userId": "9d614971-c905-4916-bcdd-0c2d994ad19f"
+  },
+  {
+    "status": "Vencido",
+    "amount": 20618,
+    "createdAt": "2025-03-07",
+    "userId": "124d229a-0b0c-464d-9c5f-7d50ca95e680"
+  },
+  {
+    "status": "Pagado",
+    "amount": 24675,
+    "createdAt": "2025-03-12",
+    "userId": "a26e7ab7-7fa6-4abe-a643-fd9ad0d9c1aa"
+  },
+  {
+    "status": "Pagado",
+    "amount": 27193,
+    "createdAt": "2025-04-11",
+    "userId": "dd1c97af-e1bf-4707-8372-b07bf1fcf15e"
+  },
+  {
+    "status": "Pagado",
+    "amount": 67159,
+    "createdAt": "2025-06-29",
+    "userId": "1a03b14a-0c12-4702-a336-ce3d283373a2"
+  },
+  {
+    "status": "Vencido",
+    "amount": 42589,
+    "createdAt": "2025-06-07",
+    "userId": "20825e06-ec5a-44c6-a401-31ddff2c5fac"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 29538,
+    "createdAt": "2025-04-27",
+    "userId": "1a03b14a-0c12-4702-a336-ce3d283373a2"
+  },
+  {
+    "status": "Pagado",
+    "amount": 85624,
+    "createdAt": "2025-06-18",
+    "userId": "9bcca732-dfa8-4c65-aea2-e1d71ca459e6"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 86629,
+    "createdAt": "2025-03-28",
+    "userId": "03447e80-9e66-46fb-b06e-e89a5ad1ba7b"
+  },
+  {
+    "status": "Pagado",
+    "amount": 66505,
+    "createdAt": "2025-05-29",
+    "userId": "4dc36d1b-5996-4030-8240-5c8e8019c405"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 79018,
+    "createdAt": "2025-06-24",
+    "userId": "34a6f4b4-ef8f-4c4a-a8a7-37ede0bbe4b6"
+  },
+  {
+    "status": "Pagado",
+    "amount": 62159,
+    "createdAt": "2025-06-12",
+    "userId": "5391bb7d-e950-4173-bf8c-d297917202c8"
+  },
+  {
+    "status": "Pagado",
+    "amount": 82203,
+    "createdAt": "2025-05-23",
+    "userId": "639cc49a-8344-48e9-9c1e-5d6be75fe0b9"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 63790,
+    "createdAt": "2025-01-03",
+    "userId": "f6cfc94f-e2d1-407d-a6ab-5737aad3af84"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 95419,
+    "createdAt": "2025-05-16",
+    "userId": "0d797d83-96c1-4415-84ee-db9d9bd807c1"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 77609,
+    "createdAt": "2025-04-02",
+    "userId": "990651fd-9e36-4ec7-997b-68d47a015de9"
+  },
+  {
+    "status": "Pagado",
+    "amount": 64758,
+    "createdAt": "2025-02-11",
+    "userId": "3ee3fd12-49ab-46dd-8fb3-d1b63a793e15"
+  },
+  {
+    "status": "Vencido",
+    "amount": 42711,
+    "createdAt": "2025-01-26",
+    "userId": "515a701d-98b5-41f0-86ed-da667398e7e2"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 35206,
+    "createdAt": "2025-05-03",
+    "userId": "4e80a2ca-8217-445c-91d6-7ed230a25e1e"
+  },
+  {
+    "status": "Vencido",
+    "amount": 45810,
+    "createdAt": "2025-03-12",
+    "userId": "40eb3795-385e-4c31-b78d-c7b0632c3ad5"
+  },
+  {
+    "status": "Pagado",
+    "amount": 61504,
+    "createdAt": "2025-02-24",
+    "userId": "97dde8f1-1a63-4763-b56a-a55a96c0d4fa"
+  },
+  {
+    "status": "Vencido",
+    "amount": 20137,
+    "createdAt": "2025-02-14",
+    "userId": "10371aea-d55d-4ed9-9316-c478abb883c7"
+  },
+  {
+    "status": "Pagado",
+    "amount": 58970,
+    "createdAt": "2025-01-07",
+    "userId": "34a6f4b4-ef8f-4c4a-a8a7-37ede0bbe4b6"
+  },
+  {
+    "status": "Vencido",
+    "amount": 71462,
+    "createdAt": "2025-05-13",
+    "userId": "97dde8f1-1a63-4763-b56a-a55a96c0d4fa"
+  },
+  {
+    "status": "Pagado",
+    "amount": 43728,
+    "createdAt": "2025-03-12",
+    "userId": "65127468-d5f3-4a51-8a6d-dbd052dcbeab"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 34508,
+    "createdAt": "2025-04-05",
+    "userId": "86868681-10ed-4f5d-97df-f8f175292716"
+  },
+  {
+    "status": "Vencido",
+    "amount": 56696,
+    "createdAt": "2025-03-06",
+    "userId": "9bcca732-dfa8-4c65-aea2-e1d71ca459e6"
+  },
+  {
+    "status": "Vencido",
+    "amount": 34211,
+    "createdAt": "2025-06-14",
+    "userId": "0020a9b8-fb6c-4b0a-b526-b4d40eb6792a"
+  },
+  {
+    "status": "Vencido",
+    "amount": 82869,
+    "createdAt": "2025-06-16",
+    "userId": "57dfee57-422e-41a5-8d95-57dda9fba428"
+  },
+  {
+    "status": "Vencido",
+    "amount": 77896,
+    "createdAt": "2025-03-25",
+    "userId": "430504e5-df4c-4113-bd43-3180a3f8b511"
+  },
+  {
+    "status": "Vencido",
+    "amount": 6932,
+    "createdAt": "2025-02-13",
+    "userId": "87b3a7a6-03d3-41bf-b923-6165cf79d6a7"
+  },
+  {
+    "status": "Pagado",
+    "amount": 91044,
+    "createdAt": "2025-04-07",
+    "userId": "9b7f3927-0294-46d5-a02e-6b22753ba27e"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 54117,
+    "createdAt": "2025-04-28",
+    "userId": "703ca2c5-7ea0-4658-b1bc-30d2d7b03717"
+  },
+  {
+    "status": "Pagado",
+    "amount": 45208,
+    "createdAt": "2025-04-12",
+    "userId": "7c44a05e-835e-4fbe-afc5-259cff77b3ff"
+  },
+  {
+    "status": "Vencido",
+    "amount": 33433,
+    "createdAt": "2025-02-07",
+    "userId": "2bb3756f-d860-40b5-8317-a814681a14c1"
+  },
+  {
+    "status": "Vencido",
+    "amount": 72365,
+    "createdAt": "2025-03-12",
+    "userId": "9f5bf1f7-3c2c-4cd0-a11e-40c89ec2fd7f"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 19791,
+    "createdAt": "2025-05-24",
+    "userId": "d26cfd58-cd1b-4b92-8a11-623129881efc"
+  },
+  {
+    "status": "Pagado",
+    "amount": 58604,
+    "createdAt": "2025-03-09",
+    "userId": "7c44a05e-835e-4fbe-afc5-259cff77b3ff"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 11994,
+    "createdAt": "2025-05-10",
+    "userId": "2edf92a3-fb3f-463a-88ba-ece560d8a26d"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 24530,
+    "createdAt": "2025-06-03",
+    "userId": "f69fa468-9785-4359-886b-b6b39ef865a3"
+  },
+  {
+    "status": "Pagado",
+    "amount": 15924,
+    "createdAt": "2025-04-16",
+    "userId": "8a2bda56-50ae-4cf1-8a03-1cba376c9e7c"
+  },
+  {
+    "status": "Pagado",
+    "amount": 98467,
+    "createdAt": "2025-02-24",
+    "userId": "91abe669-f6c6-4331-bbe4-1cb08ea56da5"
+  },
+  {
+    "status": "Vencido",
+    "amount": 28122,
+    "createdAt": "2025-03-16",
+    "userId": "f1f6ae91-db4e-4348-a8f8-a5463d53069d"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 18474,
+    "createdAt": "2025-02-07",
+    "userId": "3d95ff8f-6936-4afd-986f-6bb207cee027"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 40714,
+    "createdAt": "2025-01-24",
+    "userId": "45c142f1-a906-46b5-9c10-e5afba94aee2"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 26936,
+    "createdAt": "2025-02-09",
+    "userId": "91abe669-f6c6-4331-bbe4-1cb08ea56da5"
+  },
+  {
+    "status": "Pagado",
+    "amount": 15597,
+    "createdAt": "2025-05-06",
+    "userId": "990651fd-9e36-4ec7-997b-68d47a015de9"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 92096,
+    "createdAt": "2025-01-09",
+    "userId": "e1c9271c-4d23-4a08-acd0-4d7529e68979"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 60667,
+    "createdAt": "2025-04-14",
+    "userId": "71a15d4f-fe0e-466e-836d-da9584a172dd"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 8934,
+    "createdAt": "2025-06-04",
+    "userId": "fd96d8a4-38a1-46bd-96cb-1d40b3dc7113"
+  },
+  {
+    "status": "Vencido",
+    "amount": 84308,
+    "createdAt": "2025-03-23",
+    "userId": "2e4b3d99-830d-4031-9096-98fe39778706"
+  },
+  {
+    "status": "Vencido",
+    "amount": 58656,
+    "createdAt": "2025-02-03",
+    "userId": "5b8dfcda-0359-4313-b24a-1dbc3cc60dc1"
+  },
+  {
+    "status": "Pagado",
+    "amount": 1620,
+    "createdAt": "2025-04-03",
+    "userId": "6d62340c-1434-4ddb-8d2b-0272341fe716"
+  },
+  {
+    "status": "Pagado",
+    "amount": 81396,
+    "createdAt": "2025-03-20",
+    "userId": "6d62340c-1434-4ddb-8d2b-0272341fe716"
+  },
+  {
+    "status": "Pagado",
+    "amount": 9810,
+    "createdAt": "2025-01-20",
+    "userId": "97dde8f1-1a63-4763-b56a-a55a96c0d4fa"
+  },
+  {
+    "status": "Pagado",
+    "amount": 14250,
+    "createdAt": "2025-04-06",
+    "userId": "d11f80c8-483c-4bfa-b86f-adf3b9ebe414"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 66527,
+    "createdAt": "2025-04-03",
+    "userId": "00ca4cab-94ad-4645-aeb8-f5ede39b76ab"
+  },
+  {
+    "status": "Pagado",
+    "amount": 50758,
+    "createdAt": "2025-06-30",
+    "userId": "c4c9a492-48d0-4250-8046-c919806bed6c"
+  },
+  {
+    "status": "Pagado",
+    "amount": 80913,
+    "createdAt": "2025-03-04",
+    "userId": "4233c77d-f401-4cca-b86d-99c049544f09"
+  },
+  {
+    "status": "Vencido",
+    "amount": 55938,
+    "createdAt": "2025-06-10",
+    "userId": "5391bb7d-e950-4173-bf8c-d297917202c8"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 26579,
+    "createdAt": "2025-04-08",
+    "userId": "f62fbb8b-ad59-4906-bb29-0650820b6fee"
+  },
+  {
+    "status": "Vencido",
+    "amount": 61898,
+    "createdAt": "2025-03-30",
+    "userId": "f1f6ae91-db4e-4348-a8f8-a5463d53069d"
+  },
+  {
+    "status": "Pagado",
+    "amount": 41420,
+    "createdAt": "2025-03-02",
+    "userId": "4102e54e-75f4-4fca-897f-49592caf73d3"
+  },
+  {
+    "status": "Vencido",
+    "amount": 92070,
+    "createdAt": "2025-04-17",
+    "userId": "2c4e1023-ccfb-4c19-9e78-23f9931d3f1e"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 46496,
+    "createdAt": "2025-05-13",
+    "userId": "ca4f4112-9bef-41e2-befd-fd5a9cfee84d"
+  },
+  {
+    "status": "Pagado",
+    "amount": 69890,
+    "createdAt": "2025-06-01",
+    "userId": "58bff282-8e5f-4250-b676-e9b2f77816c2"
+  },
+  {
+    "status": "Vencido",
+    "amount": 30742,
+    "createdAt": "2025-01-26",
+    "userId": "fcb3fe1b-27c4-4e08-a5fc-5da72f80a6dc"
+  },
+  {
+    "status": "Vencido",
+    "amount": 80522,
+    "createdAt": "2025-02-17",
+    "userId": "b1066e35-e738-491b-b5ae-74d159c804cc"
+  },
+  {
+    "status": "Pagado",
+    "amount": 48938,
+    "createdAt": "2025-04-12",
+    "userId": "92babf70-d9ff-474d-83af-497572743a18"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 79681,
+    "createdAt": "2025-03-14",
+    "userId": "646329bb-204a-4456-b717-7cf91185a9c2"
+  },
+  {
+    "status": "Vencido",
+    "amount": 67166,
+    "createdAt": "2025-01-11",
+    "userId": "7caabd71-e252-4dc6-89e2-4d992a1a878f"
+  },
+  {
+    "status": "Pagado",
+    "amount": 71122,
+    "createdAt": "2025-04-10",
+    "userId": "f2630fab-03ec-426c-a0e0-cf8068c3af38"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 9366,
+    "createdAt": "2025-05-10",
+    "userId": "639cc49a-8344-48e9-9c1e-5d6be75fe0b9"
+  },
+  {
+    "status": "Pagado",
+    "amount": 57626,
+    "createdAt": "2025-02-18",
+    "userId": "eda52752-0e2a-475d-8171-51dd22b0e349"
+  },
+  {
+    "status": "Pagado",
+    "amount": 37119,
+    "createdAt": "2025-04-22",
+    "userId": "3827e88b-7ec4-4d7c-b557-59ae46c0a784"
+  },
+  {
+    "status": "Vencido",
+    "amount": 2380,
+    "createdAt": "2025-06-01",
+    "userId": "91abe669-f6c6-4331-bbe4-1cb08ea56da5"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 61906,
+    "createdAt": "2025-02-15",
+    "userId": "3827e88b-7ec4-4d7c-b557-59ae46c0a784"
+  },
+  {
+    "status": "Vencido",
+    "amount": 33922,
+    "createdAt": "2025-05-22",
+    "userId": "943b7c1e-7b00-45c9-8d9a-d22185f137e6"
+  },
+  {
+    "status": "Pagado",
+    "amount": 32147,
+    "createdAt": "2025-03-26",
+    "userId": "7c44a05e-835e-4fbe-afc5-259cff77b3ff"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 12234,
+    "createdAt": "2025-04-03",
+    "userId": "f42c4331-0a15-4fc3-8ada-313f588d4dc7"
+  },
+  {
+    "status": "Pagado",
+    "amount": 20481,
+    "createdAt": "2025-07-03",
+    "userId": "943b6161-375e-4d1c-8ed6-5d64b873df56"
+  },
+  {
+    "status": "Pagado",
+    "amount": 38708,
+    "createdAt": "2025-03-02",
+    "userId": "c4c9a492-48d0-4250-8046-c919806bed6c"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 50829,
+    "createdAt": "2025-01-28",
+    "userId": "51d2bd74-6605-41db-a67d-bd51bdfa4500"
+  },
+  {
+    "status": "Pagado",
+    "amount": 19619,
+    "createdAt": "2025-02-09",
+    "userId": "3ee3fd12-49ab-46dd-8fb3-d1b63a793e15"
+  },
+  {
+    "status": "Pagado",
+    "amount": 40809,
+    "createdAt": "2025-05-12",
+    "userId": "e212020d-ad84-4af7-a827-961fd53fb5a3"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 93822,
+    "createdAt": "2025-02-08",
+    "userId": "9f01511a-e2f2-4071-afc8-83d967e4f50b"
+  },
+  {
+    "status": "Pagado",
+    "amount": 31339,
+    "createdAt": "2025-01-21",
+    "userId": "2c4e1023-ccfb-4c19-9e78-23f9931d3f1e"
+  },
+  {
+    "status": "Pagado",
+    "amount": 16172,
+    "createdAt": "2025-04-09",
+    "userId": "44c578d4-df3f-4db3-bcff-6bd47cb43af3"
+  },
+  {
+    "status": "Pagado",
+    "amount": 25830,
+    "createdAt": "2025-04-04",
+    "userId": "430504e5-df4c-4113-bd43-3180a3f8b511"
+  },
+  {
+    "status": "Pagado",
+    "amount": 5098,
+    "createdAt": "2025-05-11",
+    "userId": "7f9bc136-6df8-42f5-9983-932591c6b0c5"
+  },
+  {
+    "status": "Pagado",
+    "amount": 56001,
+    "createdAt": "2025-05-25",
+    "userId": "a36d7b08-3540-4b27-a465-3aaf0ed17bec"
+  },
+  {
+    "status": "Vencido",
+    "amount": 83504,
+    "createdAt": "2025-07-03",
+    "userId": "b8f22dc6-5481-4542-8768-d5f125dd6450"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 96234,
+    "createdAt": "2025-02-08",
+    "userId": "2abc1900-08c2-4959-abe0-d4d66fd60172"
+  },
+  {
+    "status": "Vencido",
+    "amount": 54262,
+    "createdAt": "2025-03-16",
+    "userId": "4dc36d1b-5996-4030-8240-5c8e8019c405"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 70607,
+    "createdAt": "2025-01-11",
+    "userId": "2abc1900-08c2-4959-abe0-d4d66fd60172"
+  },
+  {
+    "status": "Pagado",
+    "amount": 51082,
+    "createdAt": "2025-05-08",
+    "userId": "ecfa1eb0-6763-45d9-86a4-9923710bc7c9"
+  },
+  {
+    "status": "Vencido",
+    "amount": 70523,
+    "createdAt": "2025-03-14",
+    "userId": "ca4f4112-9bef-41e2-befd-fd5a9cfee84d"
+  },
+  {
+    "status": "Vencido",
+    "amount": 92978,
+    "createdAt": "2025-01-25",
+    "userId": "51d2bd74-6605-41db-a67d-bd51bdfa4500"
+  },
+  {
+    "status": "Vencido",
+    "amount": 24572,
+    "createdAt": "2025-06-28",
+    "userId": "a268a884-f7e9-4007-bf90-c6924406b5bf"
+  },
+  {
+    "status": "Vencido",
+    "amount": 50813,
+    "createdAt": "2025-01-21",
+    "userId": "c4c9a492-48d0-4250-8046-c919806bed6c"
+  },
+  {
+    "status": "Vencido",
+    "amount": 24329,
+    "createdAt": "2025-05-27",
+    "userId": "17ed4dad-42b3-4725-9358-2a1c2fa54a70"
+  },
+  {
+    "status": "Vencido",
+    "amount": 23447,
+    "createdAt": "2025-01-06",
+    "userId": "1e035d5f-f9a1-450f-99f2-b1d9a61a2aba"
+  },
+  {
+    "status": "Vencido",
+    "amount": 66744,
+    "createdAt": "2025-04-26",
+    "userId": "20825e06-ec5a-44c6-a401-31ddff2c5fac"
+  },
+  {
+    "status": "Pagado",
+    "amount": 23567,
+    "createdAt": "2025-02-06",
+    "userId": "788368d4-a76c-43d8-9105-e3a1aa97c268"
+  },
+  {
+    "status": "Pagado",
+    "amount": 84665,
+    "createdAt": "2025-05-06",
+    "userId": "58d3c7d6-47a8-462a-a933-f26e8f3a6bdc"
+  },
+  {
+    "status": "Vencido",
+    "amount": 45559,
+    "createdAt": "2025-02-24",
+    "userId": "76378883-1dde-4da9-8c42-dd3d9117673b"
+  },
+  {
+    "status": "Vencido",
+    "amount": 21762,
+    "createdAt": "2025-04-15",
+    "userId": "40eb3795-385e-4c31-b78d-c7b0632c3ad5"
+  },
+  {
+    "status": "Vencido",
+    "amount": 6277,
+    "createdAt": "2025-01-17",
+    "userId": "d11f80c8-483c-4bfa-b86f-adf3b9ebe414"
+  },
+  {
+    "status": "Pagado",
+    "amount": 73463,
+    "createdAt": "2025-06-01",
+    "userId": "34a6f4b4-ef8f-4c4a-a8a7-37ede0bbe4b6"
+  },
+  {
+    "status": "Vencido",
+    "amount": 60166,
+    "createdAt": "2025-05-26",
+    "userId": "ecfa1eb0-6763-45d9-86a4-9923710bc7c9"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 48386,
+    "createdAt": "2025-01-19",
+    "userId": "de3b0975-30ee-4306-9392-6e92afceff24"
+  },
+  {
+    "status": "Pagado",
+    "amount": 70487,
+    "createdAt": "2025-02-13",
+    "userId": "a2832a02-65a8-4b19-a463-b2fc3c67523d"
+  },
+  {
+    "status": "Vencido",
+    "amount": 32620,
+    "createdAt": "2025-05-22",
+    "userId": "00db2603-3045-449d-b957-b0d07019b8c6"
+  },
+  {
+    "status": "Pagado",
+    "amount": 98124,
+    "createdAt": "2025-07-01",
+    "userId": "f2630fab-03ec-426c-a0e0-cf8068c3af38"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 4002,
+    "createdAt": "2025-05-02",
+    "userId": "6cfd17bc-4ff3-4b69-a978-29a0fca56c16"
+  },
+  {
+    "status": "Pagado",
+    "amount": 37797,
+    "createdAt": "2025-03-21",
+    "userId": "a66e61a4-a529-4ceb-9176-1d536030d222"
+  },
+  {
+    "status": "Pagado",
+    "amount": 75694,
+    "createdAt": "2025-02-26",
+    "userId": "ca4f4112-9bef-41e2-befd-fd5a9cfee84d"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 8830,
+    "createdAt": "2025-06-11",
+    "userId": "788368d4-a76c-43d8-9105-e3a1aa97c268"
+  },
+  {
+    "status": "Vencido",
+    "amount": 76248,
+    "createdAt": "2025-06-14",
+    "userId": "5fe6d8c3-d833-4bc0-bb38-ccff4e3e3752"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 16215,
+    "createdAt": "2025-06-14",
+    "userId": "44c578d4-df3f-4db3-bcff-6bd47cb43af3"
+  },
+  {
+    "status": "Pagado",
+    "amount": 7455,
+    "createdAt": "2025-03-29",
+    "userId": "d11f80c8-483c-4bfa-b86f-adf3b9ebe414"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 77131,
+    "createdAt": "2025-05-21",
+    "userId": "0d3e2a23-07f1-45be-a8e4-efd599714560"
+  },
+  {
+    "status": "Vencido",
+    "amount": 52081,
+    "createdAt": "2025-06-28",
+    "userId": "6171ee85-c551-4b65-8589-cbec1f946244"
+  },
+  {
+    "status": "Vencido",
+    "amount": 98684,
+    "createdAt": "2025-01-15",
+    "userId": "9cf9ecfe-a100-4abb-a49a-80cfa1a9e1c3"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 2930,
+    "createdAt": "2025-03-31",
+    "userId": "12cced45-0f6a-478f-8757-0b0c80c1474e"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 83461,
+    "createdAt": "2025-02-16",
+    "userId": "d26cfd58-cd1b-4b92-8a11-623129881efc"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 63716,
+    "createdAt": "2025-03-12",
+    "userId": "2d2b02d1-6299-4d9e-91bb-f0fc617ab1cd"
+  },
+  {
+    "status": "Vencido",
+    "amount": 5010,
+    "createdAt": "2025-03-02",
+    "userId": "e7582053-5b0d-4e95-89bc-aa05e597be83"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 42405,
+    "createdAt": "2025-01-06",
+    "userId": "9af75306-93ba-48e4-a71d-eeeee6542cda"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 98197,
+    "createdAt": "2025-02-21",
+    "userId": "eed7795e-e014-424c-b493-a174144a700a"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 21604,
+    "createdAt": "2025-01-03",
+    "userId": "39284020-4c81-46ca-b476-c9ca2819a7af"
+  },
+  {
+    "status": "Vencido",
+    "amount": 3630,
+    "createdAt": "2025-03-11",
+    "userId": "1774dfa7-babb-4006-9219-8bf9204ddc0e"
+  },
+  {
+    "status": "Pagado",
+    "amount": 8320,
+    "createdAt": "2025-02-19",
+    "userId": "2edf92a3-fb3f-463a-88ba-ece560d8a26d"
+  },
+  {
+    "status": "Pagado",
+    "amount": 53917,
+    "createdAt": "2025-01-01",
+    "userId": "a66e61a4-a529-4ceb-9176-1d536030d222"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 86759,
+    "createdAt": "2025-05-26",
+    "userId": "4ddae4db-f702-43b1-839b-37beb4ce534a"
+  },
+  {
+    "status": "Pagado",
+    "amount": 45987,
+    "createdAt": "2025-04-22",
+    "userId": "c804169f-8274-4251-a9b5-19920da3098e"
+  },
+  {
+    "status": "Vencido",
+    "amount": 1618,
+    "createdAt": "2025-03-18",
+    "userId": "de3b0975-30ee-4306-9392-6e92afceff24"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 47558,
+    "createdAt": "2025-03-01",
+    "userId": "71a15d4f-fe0e-466e-836d-da9584a172dd"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 13082,
+    "createdAt": "2025-04-16",
+    "userId": "e297dc10-4e77-42ea-9d59-52062a8ec04f"
+  },
+  {
+    "status": "Pagado",
+    "amount": 51793,
+    "createdAt": "2025-01-07",
+    "userId": "9f01511a-e2f2-4071-afc8-83d967e4f50b"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 23610,
+    "createdAt": "2025-02-13",
+    "userId": "3ee3fd12-49ab-46dd-8fb3-d1b63a793e15"
+  },
+  {
+    "status": "Pagado",
+    "amount": 52519,
+    "createdAt": "2025-02-10",
+    "userId": "ec7fb481-ff0f-42cb-83c8-4674f5e4281f"
+  },
+  {
+    "status": "Vencido",
+    "amount": 62671,
+    "createdAt": "2025-06-18",
+    "userId": "6c8dfbad-3dec-497c-b796-06715de2f59a"
+  },
+  {
+    "status": "Vencido",
+    "amount": 67152,
+    "createdAt": "2025-03-07",
+    "userId": "5391bb7d-e950-4173-bf8c-d297917202c8"
+  },
+  {
+    "status": "Vencido",
+    "amount": 77505,
+    "createdAt": "2025-04-06",
+    "userId": "44c578d4-df3f-4db3-bcff-6bd47cb43af3"
+  },
+  {
+    "status": "Pagado",
+    "amount": 15955,
+    "createdAt": "2025-06-24",
+    "userId": "2c4e1023-ccfb-4c19-9e78-23f9931d3f1e"
+  },
+  {
+    "status": "Pagado",
+    "amount": 66246,
+    "createdAt": "2025-06-22",
+    "userId": "f1f6ae91-db4e-4348-a8f8-a5463d53069d"
+  },
+  {
+    "status": "Vencido",
+    "amount": 76064,
+    "createdAt": "2025-02-28",
+    "userId": "990651fd-9e36-4ec7-997b-68d47a015de9"
+  },
+  {
+    "status": "Pagado",
+    "amount": 88786,
+    "createdAt": "2025-02-08",
+    "userId": "306b8389-b4f9-4f0d-9dc8-b8931309f194"
+  },
+  {
+    "status": "Vencido",
+    "amount": 41502,
+    "createdAt": "2025-05-05",
+    "userId": "0ffd5fb1-a024-44b3-885d-f1073f599abb"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 81743,
+    "createdAt": "2025-01-15",
+    "userId": "47ca0c6f-9fd3-4b2f-9d3d-6c9b08d5e8fc"
+  },
+  {
+    "status": "Vencido",
+    "amount": 18503,
+    "createdAt": "2025-06-17",
+    "userId": "972b9783-db91-461a-b3db-02cf4f868297"
+  },
+  {
+    "status": "Vencido",
+    "amount": 25686,
+    "createdAt": "2025-05-14",
+    "userId": "419d3f8b-a667-4e26-975e-b93b966b89e1"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 39384,
+    "createdAt": "2025-06-02",
+    "userId": "bf36fd6e-9e3f-4887-8a1f-3dcb4d64adae"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 5199,
+    "createdAt": "2025-07-02",
+    "userId": "00db2603-3045-449d-b957-b0d07019b8c6"
+  },
+  {
+    "status": "Pagado",
+    "amount": 38555,
+    "createdAt": "2025-05-31",
+    "userId": "dbb3186d-9bf3-40f4-964f-224a545d5bc9"
+  },
+  {
+    "status": "Vencido",
+    "amount": 22079,
+    "createdAt": "2025-05-05",
+    "userId": "71a15d4f-fe0e-466e-836d-da9584a172dd"
+  },
+  {
+    "status": "Pagado",
+    "amount": 14411,
+    "createdAt": "2025-01-10",
+    "userId": "aaf41542-343f-4df4-96fe-ccec20d4c0e0"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 76854,
+    "createdAt": "2025-04-15",
+    "userId": "43c6055c-efb9-4c12-91b0-af6df93206fd"
+  },
+  {
+    "status": "Vencido",
+    "amount": 37834,
+    "createdAt": "2025-06-21",
+    "userId": "990651fd-9e36-4ec7-997b-68d47a015de9"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 57215,
+    "createdAt": "2025-04-09",
+    "userId": "5293f15a-70ca-4cc8-a773-7c102bfd8447"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 67380,
+    "createdAt": "2025-04-13",
+    "userId": "2bb3756f-d860-40b5-8317-a814681a14c1"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 93194,
+    "createdAt": "2025-01-15",
+    "userId": "17ed4dad-42b3-4725-9358-2a1c2fa54a70"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 57010,
+    "createdAt": "2025-03-18",
+    "userId": "34a6f4b4-ef8f-4c4a-a8a7-37ede0bbe4b6"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 77209,
+    "createdAt": "2025-01-26",
+    "userId": "2d2b02d1-6299-4d9e-91bb-f0fc617ab1cd"
+  },
+  {
+    "status": "Vencido",
+    "amount": 73274,
+    "createdAt": "2025-06-12",
+    "userId": "124d229a-0b0c-464d-9c5f-7d50ca95e680"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 8713,
+    "createdAt": "2025-03-30",
+    "userId": "fcb3fe1b-27c4-4e08-a5fc-5da72f80a6dc"
+  },
+  {
+    "status": "Pagado",
+    "amount": 91349,
+    "createdAt": "2025-05-13",
+    "userId": "3a94ca7a-12f2-4590-b17e-38d1148a2618"
+  },
+  {
+    "status": "Pagado",
+    "amount": 99270,
+    "createdAt": "2025-06-18",
+    "userId": "3b671729-1af1-46bf-a78e-a450a5def283"
+  },
+  {
+    "status": "Pagado",
+    "amount": 62509,
+    "createdAt": "2025-04-16",
+    "userId": "92819afd-7253-48e3-a61c-14e243818d92"
+  },
+  {
+    "status": "Pagado",
+    "amount": 75900,
+    "createdAt": "2025-01-21",
+    "userId": "65127468-d5f3-4a51-8a6d-dbd052dcbeab"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 72949,
+    "createdAt": "2025-02-22",
+    "userId": "8a2bda56-50ae-4cf1-8a03-1cba376c9e7c"
+  },
+  {
+    "status": "Pagado",
+    "amount": 86660,
+    "createdAt": "2025-01-22",
+    "userId": "1c09152e-a6d0-47f2-9793-80c25cd97e9b"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 73307,
+    "createdAt": "2025-03-19",
+    "userId": "d11f80c8-483c-4bfa-b86f-adf3b9ebe414"
+  },
+  {
+    "status": "Vencido",
+    "amount": 65218,
+    "createdAt": "2025-06-25",
+    "userId": "9bbcdc75-4d78-487b-a857-e48e8ec85e0e"
+  },
+  {
+    "status": "Vencido",
+    "amount": 64078,
+    "createdAt": "2025-02-05",
+    "userId": "1a03b14a-0c12-4702-a336-ce3d283373a2"
+  },
+  {
+    "status": "Vencido",
+    "amount": 66536,
+    "createdAt": "2025-04-06",
+    "userId": "6cfd17bc-4ff3-4b69-a978-29a0fca56c16"
+  },
+  {
+    "status": "Pagado",
+    "amount": 81081,
+    "createdAt": "2025-06-13",
+    "userId": "20825e06-ec5a-44c6-a401-31ddff2c5fac"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 6564,
+    "createdAt": "2025-06-25",
+    "userId": "41d891dc-0cbd-4b87-96f3-b086ebd88462"
+  },
+  {
+    "status": "Pagado",
+    "amount": 4405,
+    "createdAt": "2025-06-29",
+    "userId": "c4c9a492-48d0-4250-8046-c919806bed6c"
+  },
+  {
+    "status": "Pagado",
+    "amount": 19396,
+    "createdAt": "2025-06-23",
+    "userId": "eb2a0c94-5728-4294-84de-c2b75a861117"
+  },
+  {
+    "status": "Pagado",
+    "amount": 78490,
+    "createdAt": "2025-01-01",
+    "userId": "71ff852f-b989-4658-9a26-75feecae4934"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 4356,
+    "createdAt": "2025-05-22",
+    "userId": "9cf9ecfe-a100-4abb-a49a-80cfa1a9e1c3"
+  },
+  {
+    "status": "Pagado",
+    "amount": 89215,
+    "createdAt": "2025-01-22",
+    "userId": "91abe669-f6c6-4331-bbe4-1cb08ea56da5"
+  },
+  {
+    "status": "Vencido",
+    "amount": 14320,
+    "createdAt": "2025-01-07",
+    "userId": "40eb3795-385e-4c31-b78d-c7b0632c3ad5"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 33304,
+    "createdAt": "2025-03-18",
+    "userId": "2abc1900-08c2-4959-abe0-d4d66fd60172"
+  },
+  {
+    "status": "Pagado",
+    "amount": 83774,
+    "createdAt": "2025-03-01",
+    "userId": "b64c6ff9-45ee-4c43-bd8b-97b8a261a4d0"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 96280,
+    "createdAt": "2025-05-31",
+    "userId": "3ee3fd12-49ab-46dd-8fb3-d1b63a793e15"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 42108,
+    "createdAt": "2025-03-02",
+    "userId": "00ca4cab-94ad-4645-aeb8-f5ede39b76ab"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 49851,
+    "createdAt": "2025-02-05",
+    "userId": "8cfa2189-7a3a-4d19-a83a-8cfdd74b2c46"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 38950,
+    "createdAt": "2025-05-03",
+    "userId": "1bbfa88c-dc6c-44ee-832a-2df7d7aa3b67"
+  },
+  {
+    "status": "Pagado",
+    "amount": 83222,
+    "createdAt": "2025-01-01",
+    "userId": "10371aea-d55d-4ed9-9316-c478abb883c7"
+  },
+  {
+    "status": "Pagado",
+    "amount": 85536,
+    "createdAt": "2025-02-08",
+    "userId": "85ecf3b3-a7a4-4d69-8336-49ecae56a646"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 14804,
+    "createdAt": "2025-06-05",
+    "userId": "eb2a0c94-5728-4294-84de-c2b75a861117"
+  },
+  {
+    "status": "Pagado",
+    "amount": 15583,
+    "createdAt": "2025-05-12",
+    "userId": "c865f9df-f612-48e6-86c8-91d1d0c380f6"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 49454,
+    "createdAt": "2025-04-07",
+    "userId": "5d1d8f25-f2a5-4c26-8b0e-8b5c458d0b84"
+  },
+  {
+    "status": "Pagado",
+    "amount": 55478,
+    "createdAt": "2025-06-18",
+    "userId": "35072bdd-3031-4d97-99e4-578ab0db6a9a"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 23925,
+    "createdAt": "2025-02-14",
+    "userId": "7caabd71-e252-4dc6-89e2-4d992a1a878f"
+  },
+  {
+    "status": "Vencido",
+    "amount": 14604,
+    "createdAt": "2025-05-17",
+    "userId": "86868681-10ed-4f5d-97df-f8f175292716"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 95891,
+    "createdAt": "2025-01-19",
+    "userId": "85ecf3b3-a7a4-4d69-8336-49ecae56a646"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 24825,
+    "createdAt": "2025-05-20",
+    "userId": "57cf2713-5b47-4a20-8daf-b4826d8ea5b8"
+  },
+  {
+    "status": "Vencido",
+    "amount": 47338,
+    "createdAt": "2025-03-27",
+    "userId": "a26e7ab7-7fa6-4abe-a643-fd9ad0d9c1aa"
+  },
+  {
+    "status": "Pagado",
+    "amount": 75269,
+    "createdAt": "2025-02-08",
+    "userId": "b2223fcb-96e7-42f3-8b9d-a4b2d3247e66"
+  },
+  {
+    "status": "Vencido",
+    "amount": 83144,
+    "createdAt": "2025-02-26",
+    "userId": "f7a3ad8e-2b02-4550-a890-ff03d86a4033"
+  },
+  {
+    "status": "Vencido",
+    "amount": 22425,
+    "createdAt": "2025-03-25",
+    "userId": "b2223fcb-96e7-42f3-8b9d-a4b2d3247e66"
+  },
+  {
+    "status": "Vencido",
+    "amount": 82254,
+    "createdAt": "2025-01-24",
+    "userId": "57cf2713-5b47-4a20-8daf-b4826d8ea5b8"
+  },
+  {
+    "status": "Pagado",
+    "amount": 22935,
+    "createdAt": "2025-06-20",
+    "userId": "71a15d4f-fe0e-466e-836d-da9584a172dd"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 72283,
+    "createdAt": "2025-04-05",
+    "userId": "f87a871b-089a-43d8-9e0c-20f421663b1f"
+  },
+  {
+    "status": "Vencido",
+    "amount": 14052,
+    "createdAt": "2025-06-23",
+    "userId": "703ca2c5-7ea0-4658-b1bc-30d2d7b03717"
+  },
+  {
+    "status": "Vencido",
+    "amount": 16476,
+    "createdAt": "2025-01-16",
+    "userId": "f1f6ae91-db4e-4348-a8f8-a5463d53069d"
+  },
+  {
+    "status": "Vencido",
+    "amount": 82761,
+    "createdAt": "2025-03-11",
+    "userId": "c865f9df-f612-48e6-86c8-91d1d0c380f6"
+  },
+  {
+    "status": "Vencido",
+    "amount": 2348,
+    "createdAt": "2025-04-10",
+    "userId": "9eb7ae2a-bab9-42b6-be6b-4b2c632c7b2d"
+  },
+  {
+    "status": "Vencido",
+    "amount": 3439,
+    "createdAt": "2025-06-28",
+    "userId": "d31917a7-7ac9-457b-b34d-f0e7f74fd7b3"
+  },
+  {
+    "status": "Pagado",
+    "amount": 96169,
+    "createdAt": "2025-02-11",
+    "userId": "35072bdd-3031-4d97-99e4-578ab0db6a9a"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 77571,
+    "createdAt": "2025-05-03",
+    "userId": "f42c4331-0a15-4fc3-8ada-313f588d4dc7"
+  },
+  {
+    "status": "Vencido",
+    "amount": 50545,
+    "createdAt": "2025-03-18",
+    "userId": "e1c9271c-4d23-4a08-acd0-4d7529e68979"
+  },
+  {
+    "status": "Vencido",
+    "amount": 71195,
+    "createdAt": "2025-04-15",
+    "userId": "639cc49a-8344-48e9-9c1e-5d6be75fe0b9"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 12374,
+    "createdAt": "2025-05-14",
+    "userId": "57dfee57-422e-41a5-8d95-57dda9fba428"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 39078,
+    "createdAt": "2025-03-30",
+    "userId": "aff58ef5-c967-457f-9b49-2013773d4d63"
+  },
+  {
+    "status": "Pagado",
+    "amount": 73043,
+    "createdAt": "2025-06-18",
+    "userId": "1bbfa88c-dc6c-44ee-832a-2df7d7aa3b67"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 52850,
+    "createdAt": "2025-01-19",
+    "userId": "6d62340c-1434-4ddb-8d2b-0272341fe716"
+  },
+  {
+    "status": "Vencido",
+    "amount": 22709,
+    "createdAt": "2025-01-06",
+    "userId": "4102e54e-75f4-4fca-897f-49592caf73d3"
+  },
+  {
+    "status": "Vencido",
+    "amount": 57166,
+    "createdAt": "2025-02-15",
+    "userId": "bc5fe803-9a83-40ca-a8ab-1260979b2239"
+  },
+  {
+    "status": "Vencido",
+    "amount": 66897,
+    "createdAt": "2025-02-02",
+    "userId": "b3c20529-73c2-4683-bf53-2f43d9b98f04"
+  },
+  {
+    "status": "Vencido",
+    "amount": 5945,
+    "createdAt": "2025-02-06",
+    "userId": "6d62340c-1434-4ddb-8d2b-0272341fe716"
+  },
+  {
+    "status": "Vencido",
+    "amount": 28727,
+    "createdAt": "2025-06-12",
+    "userId": "4ddae4db-f702-43b1-839b-37beb4ce534a"
+  },
+  {
+    "status": "Pagado",
+    "amount": 28695,
+    "createdAt": "2025-05-18",
+    "userId": "44c578d4-df3f-4db3-bcff-6bd47cb43af3"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 80825,
+    "createdAt": "2025-05-02",
+    "userId": "646329bb-204a-4456-b717-7cf91185a9c2"
+  },
+  {
+    "status": "Pagado",
+    "amount": 28720,
+    "createdAt": "2025-01-07",
+    "userId": "b3c20529-73c2-4683-bf53-2f43d9b98f04"
+  },
+  {
+    "status": "Vencido",
+    "amount": 95871,
+    "createdAt": "2025-03-20",
+    "userId": "a268a884-f7e9-4007-bf90-c6924406b5bf"
+  },
+  {
+    "status": "Pagado",
+    "amount": 3730,
+    "createdAt": "2025-07-03",
+    "userId": "a36d7b08-3540-4b27-a465-3aaf0ed17bec"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 98648,
+    "createdAt": "2025-05-19",
+    "userId": "7a6cf322-caed-41c9-b37d-16d993090c9a"
+  },
+  {
+    "status": "Vencido",
+    "amount": 96618,
+    "createdAt": "2025-02-23",
+    "userId": "f42c4331-0a15-4fc3-8ada-313f588d4dc7"
+  },
+  {
+    "status": "Vencido",
+    "amount": 53473,
+    "createdAt": "2025-01-11",
+    "userId": "ce9006f2-c1e4-4ea3-b35d-1cc448c7d94d"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 11776,
+    "createdAt": "2025-02-01",
+    "userId": "a66e61a4-a529-4ceb-9176-1d536030d222"
+  },
+  {
+    "status": "Vencido",
+    "amount": 5628,
+    "createdAt": "2025-04-28",
+    "userId": "00ca4cab-94ad-4645-aeb8-f5ede39b76ab"
+  },
+  {
+    "status": "Pagado",
+    "amount": 72530,
+    "createdAt": "2025-05-15",
+    "userId": "7caabd71-e252-4dc6-89e2-4d992a1a878f"
+  },
+  {
+    "status": "Vencido",
+    "amount": 76267,
+    "createdAt": "2025-04-14",
+    "userId": "430504e5-df4c-4113-bd43-3180a3f8b511"
+  },
+  {
+    "status": "Vencido",
+    "amount": 11180,
+    "createdAt": "2025-04-06",
+    "userId": "8a8e7a67-5e98-4546-a1c4-0c52b31b0740"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 25596,
+    "createdAt": "2025-06-01",
+    "userId": "124d229a-0b0c-464d-9c5f-7d50ca95e680"
+  },
+  {
+    "status": "Pagado",
+    "amount": 72610,
+    "createdAt": "2025-03-09",
+    "userId": "f22dc893-708b-4e34-81e0-6630d3785542"
+  },
+  {
+    "status": "Pagado",
+    "amount": 45261,
+    "createdAt": "2025-03-11",
+    "userId": "20825e06-ec5a-44c6-a401-31ddff2c5fac"
+  },
+  {
+    "status": "Vencido",
+    "amount": 4432,
+    "createdAt": "2025-05-26",
+    "userId": "91abe669-f6c6-4331-bbe4-1cb08ea56da5"
+  },
+  {
+    "status": "Pagado",
+    "amount": 19975,
+    "createdAt": "2025-01-04",
+    "userId": "a36d7b08-3540-4b27-a465-3aaf0ed17bec"
+  },
+  {
+    "status": "Pagado",
+    "amount": 99785,
+    "createdAt": "2025-05-18",
+    "userId": "eed7795e-e014-424c-b493-a174144a700a"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 52456,
+    "createdAt": "2025-06-04",
+    "userId": "2717fb58-e03b-4462-b588-9ae9db9425c8"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 91338,
+    "createdAt": "2025-05-05",
+    "userId": "9d614971-c905-4916-bcdd-0c2d994ad19f"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 53581,
+    "createdAt": "2025-06-22",
+    "userId": "fd96d8a4-38a1-46bd-96cb-1d40b3dc7113"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 50795,
+    "createdAt": "2025-06-24",
+    "userId": "1a03b14a-0c12-4702-a336-ce3d283373a2"
+  },
+  {
+    "status": "Vencido",
+    "amount": 34740,
+    "createdAt": "2025-06-09",
+    "userId": "6c8dfbad-3dec-497c-b796-06715de2f59a"
+  },
+  {
+    "status": "Pagado",
+    "amount": 51200,
+    "createdAt": "2025-03-13",
+    "userId": "0fa78fe1-a0ee-4657-aecf-2df14d2cb8ab"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 8639,
+    "createdAt": "2025-01-23",
+    "userId": "8a8e7a67-5e98-4546-a1c4-0c52b31b0740"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 6419,
+    "createdAt": "2025-04-21",
+    "userId": "1e035d5f-f9a1-450f-99f2-b1d9a61a2aba"
+  },
+  {
+    "status": "Vencido",
+    "amount": 35040,
+    "createdAt": "2025-02-25",
+    "userId": "2bb3756f-d860-40b5-8317-a814681a14c1"
+  },
+  {
+    "status": "Pagado",
+    "amount": 62522,
+    "createdAt": "2025-03-28",
+    "userId": "10371aea-d55d-4ed9-9316-c478abb883c7"
+  },
+  {
+    "status": "Vencido",
+    "amount": 9483,
+    "createdAt": "2025-02-14",
+    "userId": "b9483479-95e3-4836-a2bd-7b150c96949a"
+  },
+  {
+    "status": "Pagado",
+    "amount": 20039,
+    "createdAt": "2025-02-20",
+    "userId": "9d614971-c905-4916-bcdd-0c2d994ad19f"
+  },
+  {
+    "status": "Vencido",
+    "amount": 5978,
+    "createdAt": "2025-01-10",
+    "userId": "d26dcd1d-1ea3-48db-815e-11af66722976"
+  },
+  {
+    "status": "Vencido",
+    "amount": 74074,
+    "createdAt": "2025-06-05",
+    "userId": "0020a9b8-fb6c-4b0a-b526-b4d40eb6792a"
+  },
+  {
+    "status": "Vencido",
+    "amount": 42952,
+    "createdAt": "2025-06-09",
+    "userId": "76ddb94c-7ec5-4d66-9def-352b16d37a8e"
+  },
+  {
+    "status": "Pagado",
+    "amount": 60930,
+    "createdAt": "2025-02-13",
+    "userId": "9cf9ecfe-a100-4abb-a49a-80cfa1a9e1c3"
+  },
+  {
+    "status": "Pagado",
+    "amount": 89543,
+    "createdAt": "2025-05-19",
+    "userId": "92c052d2-bab2-4934-8e4d-23fcf96d25b2"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 24169,
+    "createdAt": "2025-01-02",
+    "userId": "9dd31d8f-b963-43e8-8189-82f297a4eec0"
+  },
+  {
+    "status": "Pagado",
+    "amount": 75681,
+    "createdAt": "2025-05-27",
+    "userId": "f7a3ad8e-2b02-4550-a890-ff03d86a4033"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 36938,
+    "createdAt": "2025-01-23",
+    "userId": "03447e80-9e66-46fb-b06e-e89a5ad1ba7b"
+  },
+  {
+    "status": "Pagado",
+    "amount": 94576,
+    "createdAt": "2025-02-08",
+    "userId": "aff58ef5-c967-457f-9b49-2013773d4d63"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 63951,
+    "createdAt": "2025-07-02",
+    "userId": "306b8389-b4f9-4f0d-9dc8-b8931309f194"
+  },
+  {
+    "status": "Pagado",
+    "amount": 49407,
+    "createdAt": "2025-04-20",
+    "userId": "45c142f1-a906-46b5-9c10-e5afba94aee2"
+  },
+  {
+    "status": "Vencido",
+    "amount": 4657,
+    "createdAt": "2025-06-04",
+    "userId": "39a2ec13-591f-4e3e-90e0-f0b20aa390be"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 90796,
+    "createdAt": "2025-06-08",
+    "userId": "4e80a2ca-8217-445c-91d6-7ed230a25e1e"
+  },
+  {
+    "status": "Pagado",
+    "amount": 34110,
+    "createdAt": "2025-02-08",
+    "userId": "eda52752-0e2a-475d-8171-51dd22b0e349"
+  },
+  {
+    "status": "Pagado",
+    "amount": 57197,
+    "createdAt": "2025-05-10",
+    "userId": "c865f9df-f612-48e6-86c8-91d1d0c380f6"
+  },
+  {
+    "status": "Vencido",
+    "amount": 33318,
+    "createdAt": "2025-01-12",
+    "userId": "30d4a551-48cb-4227-9e8f-0fe576b5b27f"
+  },
+  {
+    "status": "Pagado",
+    "amount": 4972,
+    "createdAt": "2025-01-24",
+    "userId": "306b8389-b4f9-4f0d-9dc8-b8931309f194"
+  },
+  {
+    "status": "Vencido",
+    "amount": 70775,
+    "createdAt": "2025-01-13",
+    "userId": "2edf92a3-fb3f-463a-88ba-ece560d8a26d"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 78662,
+    "createdAt": "2025-02-26",
+    "userId": "7caabd71-e252-4dc6-89e2-4d992a1a878f"
+  },
+  {
+    "status": "Pagado",
+    "amount": 91660,
+    "createdAt": "2025-04-01",
+    "userId": "76378883-1dde-4da9-8c42-dd3d9117673b"
+  },
+  {
+    "status": "Pagado",
+    "amount": 46732,
+    "createdAt": "2025-04-23",
+    "userId": "bb64bc52-64fd-4695-8067-112699e20bb0"
+  },
+  {
+    "status": "Vencido",
+    "amount": 34054,
+    "createdAt": "2025-02-22",
+    "userId": "302b5984-06d1-4f04-a061-2bda7bdf845d"
+  },
+  {
+    "status": "Pagado",
+    "amount": 79175,
+    "createdAt": "2025-03-28",
+    "userId": "2717fb58-e03b-4462-b588-9ae9db9425c8"
+  },
+  {
+    "status": "Pagado",
+    "amount": 99132,
+    "createdAt": "2025-03-20",
+    "userId": "b2223fcb-96e7-42f3-8b9d-a4b2d3247e66"
+  },
+  {
+    "status": "Pagado",
+    "amount": 7326,
+    "createdAt": "2025-01-23",
+    "userId": "d11f80c8-483c-4bfa-b86f-adf3b9ebe414"
+  },
+  {
+    "status": "Pagado",
+    "amount": 22511,
+    "createdAt": "2025-04-15",
+    "userId": "a11705e2-e756-4a80-a80f-30a596eb0d3c"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 72363,
+    "createdAt": "2025-01-06",
+    "userId": "308f6090-7471-4dbc-bd31-7d07074ed991"
+  },
+  {
+    "status": "Vencido",
+    "amount": 12872,
+    "createdAt": "2025-03-08",
+    "userId": "1774dfa7-babb-4006-9219-8bf9204ddc0e"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 29089,
+    "createdAt": "2025-02-25",
+    "userId": "7c44a05e-835e-4fbe-afc5-259cff77b3ff"
+  },
+  {
+    "status": "Vencido",
+    "amount": 59733,
+    "createdAt": "2025-03-05",
+    "userId": "788368d4-a76c-43d8-9105-e3a1aa97c268"
+  },
+  {
+    "status": "Pagado",
+    "amount": 12335,
+    "createdAt": "2025-02-06",
+    "userId": "f6cfc94f-e2d1-407d-a6ab-5737aad3af84"
+  },
+  {
+    "status": "Vencido",
+    "amount": 16805,
+    "createdAt": "2025-05-11",
+    "userId": "29c11524-e058-4c7f-beaa-d8fc12004035"
+  },
+  {
+    "status": "Pagado",
+    "amount": 69026,
+    "createdAt": "2025-01-15",
+    "userId": "943b6161-375e-4d1c-8ed6-5d64b873df56"
+  },
+  {
+    "status": "Vencido",
+    "amount": 56213,
+    "createdAt": "2025-05-07",
+    "userId": "9227ddb9-e910-4c39-87ce-9de01b31ff20"
+  },
+  {
+    "status": "Vencido",
+    "amount": 47444,
+    "createdAt": "2025-04-18",
+    "userId": "a11705e2-e756-4a80-a80f-30a596eb0d3c"
+  },
+  {
+    "status": "Pagado",
+    "amount": 8193,
+    "createdAt": "2025-05-11",
+    "userId": "8cfa2189-7a3a-4d19-a83a-8cfdd74b2c46"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 86137,
+    "createdAt": "2025-06-20",
+    "userId": "b9483479-95e3-4836-a2bd-7b150c96949a"
+  },
+  {
+    "status": "Pagado",
+    "amount": 63727,
+    "createdAt": "2025-01-17",
+    "userId": "20825e06-ec5a-44c6-a401-31ddff2c5fac"
+  },
+  {
+    "status": "Pagado",
+    "amount": 54706,
+    "createdAt": "2025-06-25",
+    "userId": "059ea6eb-9289-4124-9ee0-01284b53f543"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 75809,
+    "createdAt": "2025-02-24",
+    "userId": "b8f22dc6-5481-4542-8768-d5f125dd6450"
+  },
+  {
+    "status": "Pagado",
+    "amount": 5793,
+    "createdAt": "2025-06-03",
+    "userId": "41d891dc-0cbd-4b87-96f3-b086ebd88462"
+  },
+  {
+    "status": "Vencido",
+    "amount": 95192,
+    "createdAt": "2025-04-22",
+    "userId": "71a15d4f-fe0e-466e-836d-da9584a172dd"
+  },
+  {
+    "status": "Vencido",
+    "amount": 44788,
+    "createdAt": "2025-07-01",
+    "userId": "76ddb94c-7ec5-4d66-9def-352b16d37a8e"
+  },
+  {
+    "status": "Pagado",
+    "amount": 79899,
+    "createdAt": "2025-06-21",
+    "userId": "d31917a7-7ac9-457b-b34d-f0e7f74fd7b3"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 32048,
+    "createdAt": "2025-01-01",
+    "userId": "b1066e35-e738-491b-b5ae-74d159c804cc"
+  },
+  {
+    "status": "Vencido",
+    "amount": 56595,
+    "createdAt": "2025-01-26",
+    "userId": "33c81390-7a29-41cc-8b9b-f4de0f28593b"
+  },
+  {
+    "status": "Vencido",
+    "amount": 85653,
+    "createdAt": "2025-06-03",
+    "userId": "45c142f1-a906-46b5-9c10-e5afba94aee2"
+  },
+  {
+    "status": "Pagado",
+    "amount": 98145,
+    "createdAt": "2025-02-02",
+    "userId": "a1b63c5f-bc32-432d-877e-6ad9213a7068"
+  },
+  {
+    "status": "Pagado",
+    "amount": 37411,
+    "createdAt": "2025-06-05",
+    "userId": "a2832a02-65a8-4b19-a463-b2fc3c67523d"
+  },
+  {
+    "status": "Pagado",
+    "amount": 81679,
+    "createdAt": "2025-01-09",
+    "userId": "943b6161-375e-4d1c-8ed6-5d64b873df56"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 52477,
+    "createdAt": "2025-05-27",
+    "userId": "1bbfa88c-dc6c-44ee-832a-2df7d7aa3b67"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 20532,
+    "createdAt": "2025-05-28",
+    "userId": "b64c6ff9-45ee-4c43-bd8b-97b8a261a4d0"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 39290,
+    "createdAt": "2025-06-08",
+    "userId": "2abc1900-08c2-4959-abe0-d4d66fd60172"
+  },
+  {
+    "status": "Vencido",
+    "amount": 51719,
+    "createdAt": "2025-06-07",
+    "userId": "9bbcdc75-4d78-487b-a857-e48e8ec85e0e"
+  },
+  {
+    "status": "Vencido",
+    "amount": 28402,
+    "createdAt": "2025-03-03",
+    "userId": "2717fb58-e03b-4462-b588-9ae9db9425c8"
+  },
+  {
+    "status": "Pagado",
+    "amount": 84919,
+    "createdAt": "2025-02-13",
+    "userId": "1f7dea52-9a13-47c9-9c25-b9797ae2dfc5"
+  },
+  {
+    "status": "Vencido",
+    "amount": 97361,
+    "createdAt": "2025-03-19",
+    "userId": "9af75306-93ba-48e4-a71d-eeeee6542cda"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 37245,
+    "createdAt": "2025-04-04",
+    "userId": "00db2603-3045-449d-b957-b0d07019b8c6"
+  },
+  {
+    "status": "Pagado",
+    "amount": 25455,
+    "createdAt": "2025-03-30",
+    "userId": "7caabd71-e252-4dc6-89e2-4d992a1a878f"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 46334,
+    "createdAt": "2025-04-06",
+    "userId": "dbb3186d-9bf3-40f4-964f-224a545d5bc9"
+  },
+  {
+    "status": "Pagado",
+    "amount": 65073,
+    "createdAt": "2025-06-08",
+    "userId": "87b3a7a6-03d3-41bf-b923-6165cf79d6a7"
+  },
+  {
+    "status": "Pagado",
+    "amount": 10690,
+    "createdAt": "2025-04-16",
+    "userId": "1a03b14a-0c12-4702-a336-ce3d283373a2"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 26550,
+    "createdAt": "2025-04-30",
+    "userId": "9bbcdc75-4d78-487b-a857-e48e8ec85e0e"
+  },
+  {
+    "status": "Pagado",
+    "amount": 49835,
+    "createdAt": "2025-06-11",
+    "userId": "9bbcdc75-4d78-487b-a857-e48e8ec85e0e"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 80915,
+    "createdAt": "2025-05-08",
+    "userId": "f42c4331-0a15-4fc3-8ada-313f588d4dc7"
+  },
+  {
+    "status": "Vencido",
+    "amount": 17588,
+    "createdAt": "2025-01-17",
+    "userId": "d31917a7-7ac9-457b-b34d-f0e7f74fd7b3"
+  },
+  {
+    "status": "Vencido",
+    "amount": 92534,
+    "createdAt": "2025-06-30",
+    "userId": "f6cfc94f-e2d1-407d-a6ab-5737aad3af84"
+  },
+  {
+    "status": "Pagado",
+    "amount": 77731,
+    "createdAt": "2025-04-16",
+    "userId": "47ca0c6f-9fd3-4b2f-9d3d-6c9b08d5e8fc"
+  },
+  {
+    "status": "Pagado",
+    "amount": 64119,
+    "createdAt": "2025-03-06",
+    "userId": "bf36fd6e-9e3f-4887-8a1f-3dcb4d64adae"
+  },
+  {
+    "status": "Pagado",
+    "amount": 50260,
+    "createdAt": "2025-01-26",
+    "userId": "1c09152e-a6d0-47f2-9793-80c25cd97e9b"
+  },
+  {
+    "status": "Vencido",
+    "amount": 70010,
+    "createdAt": "2025-03-22",
+    "userId": "e212020d-ad84-4af7-a827-961fd53fb5a3"
+  },
+  {
+    "status": "Vencido",
+    "amount": 12898,
+    "createdAt": "2025-05-30",
+    "userId": "92c052d2-bab2-4934-8e4d-23fcf96d25b2"
+  },
+  {
+    "status": "Vencido",
+    "amount": 8514,
+    "createdAt": "2025-02-23",
+    "userId": "b3c20529-73c2-4683-bf53-2f43d9b98f04"
+  },
+  {
+    "status": "Pagado",
+    "amount": 69004,
+    "createdAt": "2025-05-26",
+    "userId": "57cf2713-5b47-4a20-8daf-b4826d8ea5b8"
+  },
+  {
+    "status": "Pagado",
+    "amount": 13937,
+    "createdAt": "2025-01-11",
+    "userId": "fcb3fe1b-27c4-4e08-a5fc-5da72f80a6dc"
+  },
+  {
+    "status": "Vencido",
+    "amount": 3836,
+    "createdAt": "2025-03-08",
+    "userId": "30d4a551-48cb-4227-9e8f-0fe576b5b27f"
+  },
+  {
+    "status": "Vencido",
+    "amount": 41516,
+    "createdAt": "2025-03-03",
+    "userId": "5fe6d8c3-d833-4bc0-bb38-ccff4e3e3752"
+  },
+  {
+    "status": "Pagado",
+    "amount": 55452,
+    "createdAt": "2025-06-19",
+    "userId": "e297dc10-4e77-42ea-9d59-52062a8ec04f"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 68704,
+    "createdAt": "2025-01-13",
+    "userId": "b3c20529-73c2-4683-bf53-2f43d9b98f04"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 99041,
+    "createdAt": "2025-07-02",
+    "userId": "92819afd-7253-48e3-a61c-14e243818d92"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 41484,
+    "createdAt": "2025-05-29",
+    "userId": "f62fbb8b-ad59-4906-bb29-0650820b6fee"
+  },
+  {
+    "status": "Vencido",
+    "amount": 60175,
+    "createdAt": "2025-03-20",
+    "userId": "d26cfd58-cd1b-4b92-8a11-623129881efc"
+  },
+  {
+    "status": "Vencido",
+    "amount": 55721,
+    "createdAt": "2025-01-14",
+    "userId": "1f7dea52-9a13-47c9-9c25-b9797ae2dfc5"
+  },
+  {
+    "status": "Vencido",
+    "amount": 22574,
+    "createdAt": "2025-06-04",
+    "userId": "86424261-ca29-47bd-bd88-50022dba58b5"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 31493,
+    "createdAt": "2025-01-27",
+    "userId": "8a2bda56-50ae-4cf1-8a03-1cba376c9e7c"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 83571,
+    "createdAt": "2025-04-30",
+    "userId": "9bbcdc75-4d78-487b-a857-e48e8ec85e0e"
+  },
+  {
+    "status": "Vencido",
+    "amount": 40766,
+    "createdAt": "2025-06-16",
+    "userId": "9bcca732-dfa8-4c65-aea2-e1d71ca459e6"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 50310,
+    "createdAt": "2025-03-19",
+    "userId": "4233c77d-f401-4cca-b86d-99c049544f09"
+  },
+  {
+    "status": "Pagado",
+    "amount": 18278,
+    "createdAt": "2025-01-20",
+    "userId": "943b6161-375e-4d1c-8ed6-5d64b873df56"
+  },
+  {
+    "status": "Pagado",
+    "amount": 13858,
+    "createdAt": "2025-02-01",
+    "userId": "9b7f3927-0294-46d5-a02e-6b22753ba27e"
+  },
+  {
+    "status": "Pendiente",
+    "amount": 2704,
+    "createdAt": "2025-01-19",
+    "userId": "86868681-10ed-4f5d-97df-f8f175292716"
+  }
+]

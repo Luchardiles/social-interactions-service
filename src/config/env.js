@@ -6,8 +6,12 @@ module.exports = {
   nodeEnv: process.env.NODE_ENV || "development",
   rabbitmqUrl: process.env.RABBITMQ_URL || "amqp://guest:guest@localhost:5672",
   videoCreatedQueue: process.env.VIDEO_CREATED_QUEUE || "video.created",
-  videoDeletedQueue: process.env.VIDEO_DELETED_QUEUE || "video.deleted",
-  videoUpdatedQueue: process.env.VIDEO_UPDATED_QUEUE || "video.updated",
+  videoUpdatedQueueSocialInteractions:
+    process.env.VIDEO_UPDATED_QUEUE_SOCIAL_INTERACTIONS ||
+    "video.updated.social.interactions",
+  videoDeletedQueueSocialInteractions:
+    process.env.VIDEO_DELETED_QUEUE_SOCIAL_INTERACTIONS ||
+    "video.deleted.social.interactions",
   database: {
     host: process.env.DATABASE_HOST || "localhost",
     port: process.env.DATABASE_PORT || 27020,

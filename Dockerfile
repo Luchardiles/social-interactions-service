@@ -8,7 +8,7 @@ RUN npm ci
 
 COPY . .
 
-EXPOSE 50054
+EXPOSE 50057
 
 RUN npx prisma generate
 

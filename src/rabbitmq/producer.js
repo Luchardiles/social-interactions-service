@@ -1,12 +1,12 @@
 const {connectRabbit} = require("./connection");
-const {videoUpdatedQueue} = require("../config/env");
+const {videoUpdatedQueueSocialInteractions} = require("../config/env");
 
 
 async function publishVideoUpdatedEvent(videoId, updatedData) {
     const ch = await connectRabbit();
-    await ch.assertQueue(videoUpdatedQueue, { durable: true });
+    await ch.assertQueue(videoUpdatedQueueSocialInteractions, { durable: true });
     const payload = JSON.stringify({ id: videoId, ...updatedData });
-    ch.sendToQueue(videoUpdatedQueue, Buffer.from(payload), { persistent: true });
+    ch.sendToQueue(videoUpdatedQueueSocialInteractions, Buffer.from(payload), { persistent: true });
 }
 
 module.exports = {

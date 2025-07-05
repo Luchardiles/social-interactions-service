@@ -10,6 +10,7 @@ const CommentSchema = new mongoose.Schema(
     videoId: {
       type: String,
       required: [true, "The video ID is required"],
+      ref: "Video",
     },
     comment: {
       type: String,

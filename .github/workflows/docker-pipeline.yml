@@ -24,11 +24,11 @@ jobs:
 
       - name: Construir las imágenes con el tag 
         run: |
-          docker build -t luisardiles/billing-service:latest .
-          docker tag luisardiles/billing-service:latest luisardiles/billing-service:${{ github.sha }}
+          docker build -t luisardiles/social-interactions-service:latest .
+          docker tag luisardiles/social-interactions-service:latest luisardiles/social-interactions-service:${{ github.sha }}
 
-      # 5. billing-service Subir la imagen a Docker Hub
+      # 5. social-interactions-service Subir la imagen a Docker Hub
       - name: Push Docker image
         run: |
-          docker push luisardiles/billing-service:latest
-          docker push luisardiles/billing-service:${{ github.sha }}
+          docker push luisardiles/social-interactions-service:latest
+          docker push luisardiles/social-interactions-service:${{ github.sha }}
